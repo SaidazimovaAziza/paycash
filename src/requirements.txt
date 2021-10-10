@@ -1,0 +1,6 @@
+Django==3.2.8
+psycopg2-binary==2.8.6
+pytest-django==4.1.0
+graphene-django==2.15.0
+
+celery==5.0.5
