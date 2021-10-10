@@ -1,4 +1,3 @@
-# News project
 
 ### Deployment:
 
